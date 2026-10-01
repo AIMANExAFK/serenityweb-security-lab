@@ -1,0 +1,9 @@
+{
+  "name": "serenityweb-security-lab",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Offline security examples adapted from SerenityWeb",
+  "scripts": { "test": "node --test" },
+  "engines": { "node": ">=20" }
+}
